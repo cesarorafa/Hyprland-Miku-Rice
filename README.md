@@ -9,7 +9,7 @@
   <summary> - install script</summary>
   
   ```
-  cd && git clone (colocar a url)
+  cd && git clone https://github.com/cesarorafa/Hyprland-Miku-Rice.git
   cd ~/Dotfiles/InstallScript
   chmod +x install.sh
   ./install.sh
