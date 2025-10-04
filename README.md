@@ -4,6 +4,9 @@
 
 ## Installation
 
+> [!WARNING]
+>You need the `git` package to clone from the terminal
+> 
  ```
   cd && git clone https://github.com/cesarorafa/Hyprland-Miku-Rice.git
   cd ~/Hyprland-Miku-Rice/Dotfiles/
