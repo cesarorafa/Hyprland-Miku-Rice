@@ -10,7 +10,7 @@
   
   ```
   cd && git clone https://github.com/cesarorafa/Hyprland-Miku-Rice.git
-  cd ~/Dotfiles/InstallScript
+  cd ~/Dotfiles/
   chmod +x install.sh
   ./install.sh
   ```
