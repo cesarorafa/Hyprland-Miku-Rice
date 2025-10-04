@@ -13,7 +13,7 @@ read -p "Do you want to copy the .config files to your .config? (y/n) " copyconf
 
 if [[ "$copyconfig" =~ ^[Yy]$ ]]; then
     mkdir -p ~/.config
-    cp ~/dotfiles/.config/* ~/.config/
+    cp ~/Hyprland-Miku-Rice/dotfiles/.config/* ~/.config/
     echo "Configs copied!"
 else
     echo "Config copy canceled"
@@ -21,7 +21,7 @@ fi
 read -p "Do you want to copy the .bashrc? (y/n) " copybashrc
 
 if [[ "$copybashrc" =~ ^[Yy]$ ]]; then
-    cp ~/dotfiles/.bashrc ~/.bashrc
+    cp ~/Hyprland-Miku-Rice/dotfiles/.bashrc ~/.bashrc
     echo "Sourcing new .bashrc..."
     source ~/.bashrc
 else
