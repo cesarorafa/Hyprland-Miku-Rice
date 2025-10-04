@@ -9,7 +9,7 @@
 > 
  ```
   cd && git clone https://github.com/cesarorafa/Hyprland-Miku-Rice.git
-  cd ~/Hyprland-Miku-Rice/Dotfiles/
+  cd ~/Hyprland-Miku-Rice/dotfiles/
   chmod +x install.sh
   ./install.sh
   ```
