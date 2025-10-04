@@ -6,13 +6,13 @@
 
  ```
   cd && git clone https://github.com/cesarorafa/Hyprland-Miku-Rice.git
-  cd ~/Miku-Hyprland-Rice/Dotfiles/
+  cd ~/Hyprland-Miku-Rice/Dotfiles/
   chmod +x install.sh
   ./install.sh
   ```
 > ***Note*** if the wallpaper dont work right after the install script you can reboot and run these command
 
 ```
-swww img ~/Miku-Hyprland-Rice/wallpapers/miku.gif
+swww img ~/Hyprland-Miku-Rice/wallpapers/miku.gif
 ```
 it **SHOULD** work
