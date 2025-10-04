@@ -3,7 +3,7 @@
 read -p "You want to install the packages? (y/n) " installpackages
 
 if [[ "$installpackages" =~ ^[Yy]$ ]]; then
-    yay -S waybar fastfetch cava kitty starship swww
+    yay -S waybar fastfetch cava kitty starship swww nerd-fonts-jetbrains-mono
 else
     echo "Install script canceled"
     exit 0
