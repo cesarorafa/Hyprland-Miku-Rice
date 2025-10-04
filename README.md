@@ -10,7 +10,7 @@
   chmod +x install.sh
   ./install.sh
   ```
-> ***Note*** if the wallpaper dont work right after the install script you can reboot and run these command
+> ***Note*** if the wallpaper dont work right after the install script you can reboot and run this command
 
 ```
 swww img ~/Hyprland-Miku-Rice/wallpapers/miku.gif
