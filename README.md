@@ -3,7 +3,7 @@
 
 
 ## Installation
-  **just run these commands in the terminal (you need the git package aswell)**
+
  ```
   cd && git clone https://github.com/cesarorafa/Hyprland-Miku-Rice.git
   cd ~/Dotfiles/
